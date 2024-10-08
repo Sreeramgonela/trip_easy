@@ -23,7 +23,7 @@ const Home = () => {
                         </h2>
                     </div>
                     {}
-                    <div className="hidden mmd:block h-90 w-120 col-span-9 bg-cover" style={{backgroundImage: `url(${"https://cdn.pixabay.com/photo/2017/12/16/22/22/bora-bora-3023437_640.jpg"})`}}/>
+                    <div className="hidden mmd:block h-90 w-120 col-span-9 bg-cover" style={{backgroundImage: `url(${"https://images.unsplash.com/photo-1530789253388-582c481c54b0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"})`}}/>
                     {}
                     {}
                     <div className="block mmd:hidden h-full bg-contain bg-top" />
