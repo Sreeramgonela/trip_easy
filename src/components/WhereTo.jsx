@@ -9,7 +9,7 @@ const WhereTo = () => {
     }
     return ( 
         <div className="container mx-auto p-4 relative flex justify-center items-center">
-            <img src="https://travelfuntoosh.com/Content/Images/banner.jpg" alt="BG" 
+            <img src="https://wallpapers.com/images/featured/travel-ibk7fgrvtvhs7qzg.jpg" alt="BG" 
                 className="object-cover md:w-full md:h-[24em] h-[25em]" 
             />
             {}
