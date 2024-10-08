@@ -6,7 +6,7 @@ const Footer = () => {
                 <div className="grid grid-cols-12 text-gray-800">
                     <div className="col-span-12 lg:col-span-8 space-y-2 text-dark">
                         <div className="flex space-x-3">
-                            <img src='https://static.vecteezy.com/system/resources/previews/025/669/643/non_2x/alphabet-sr-travel-logo-creative-global-air-sr-travel-logo-icon-vector.jpg' alt="" className="h-10 w-10" />
+                            <img src='https://img.freepik.com/free-vector/detailed-travel-logo_23-2148616611.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1728259200&semt=ais_hybrid' alt="" className="h-10 w-10" />
                             <div className="w-fit">
                                 <p className="text-xs">
                                     © 2024 Sreeram LLC All rights reserved.
