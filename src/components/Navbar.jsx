@@ -12,7 +12,7 @@ const Navbar = ({ sticky, border }) => {
             <div className={`container mx-auto w-full flex justify-between items-center px-4 py-3  ${ isMenuToggled && 'shadow-md' } bg-red`}>
                 {}
                 <Link to={"/"}>
-                    <img src="https://static.vecteezy.com/system/resources/previews/025/669/643/non_2x/alphabet-sr-travel-logo-creative-global-air-sr-travel-logo-icon-vector.jpg" alt=" Explore-Ease" className="w-[50px] sm:w-[20px] md:w-[50px]"/>
+                    <img src="https://img.freepik.com/free-vector/detailed-travel-logo_23-2148616611.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1728259200&semt=ais_hybrid" alt=" Explore-Ease" className="w-[50px] sm:w-[20px] md:w-[50px]"/>
                 </Link>
                 <ul className="hidden mmd:flex space-x-1">
                     {}
