@@ -17,7 +17,7 @@ const Home = () => {
             <div className="bg-[#55CEFF]">
                 <div className="container mx-auto mmd:grid mmd:grid-cols-12 h-[300px] sm:h-[300px] mmd:h-[600px] overflow-hidden">
                     <div className=" col-span-3 text-center py-6 flex flex-col items-center justify-center p-4 md:p-2">
-                        <img src='https://static.vecteezy.com/system/resources/previews/025/669/643/non_2x/alphabet-sr-travel-logo-creative-global-air-sr-travel-logo-icon-vector.jpg' alt=""  className="h-16 lg:h-20 mb-5 lg:mb-10" />
+                        <img src='https://img.freepik.com/free-vector/detailed-travel-logo_23-2148616611.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1728259200&semt=ais_hybrid' alt=""  className="h-16 lg:h-20 mb-5 lg:mb-10" />
                         <h2 className="text-black font-bold text-2xl md:text-[2.15em]">
                             Travelers' Choice Best of the Best
                         </h2>
