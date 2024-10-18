@@ -17,7 +17,7 @@ const Header = ({ setCoordinates }) => {
         <div className="flex items-center w-full p-2 absolute top-0 z-10">
             <div className="flex bg-white justify-between items-center w-full p-3 md:p-4 rounded-sm shadow-md">
                 { !search && ( 
-                    <img src='https://thumbs.dreamstime.com/b/amd-icon-vector-logo-template-208665248.jpg' alt="Explore-Ease" className="h-6 sm:h-7 md:h-8" />
+                    <img src='https://img.freepik.com/free-vector/detailed-travel-logo_23-2148616611.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1728259200&semt=ais_hybrid" alt=" Explore-Ease' alt="Explore-Ease" className="h-6 sm:h-7 md:h-8" />
                 )}
                 
                 <div className={`relative w-full md:w-auto md:block ${!search && 'hidden'}`}>
